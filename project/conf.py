@@ -16,9 +16,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'gorella_project_name'
+project = 'EPICHAD'
 copyright = 'Year, Name'
-author = 'Author, Names'
+author = 'Aicha Bouzouina, Michaela Kroth'
 
 master_doc = "index"
 
@@ -54,8 +54,8 @@ html_title = ""
 html_theme = "sphinx_book_theme"
 html_logo = ""
 html_theme_options = {
-    "github_url": "https://github.com/G0RELLA/gorella_project_template",
-    "repository_url": "https://github.com/G0RELLA/gorella_project_template",
+    "github_url": "https://github.com/Michaela000/EPICHAD",
+    "repository_url": "https://github.com/Michaela000/EPICHAD",
     "repository_branch": "master",
     "use_edit_page_button": True,
     "path_to_docs": "docs/",
