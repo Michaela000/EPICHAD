@@ -216,6 +216,39 @@
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show">
             
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#how-was-the-dataset-search-conducted">
+   How was the dataset search conducted?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#how-was-the-dataset-obtained">
+   How was the dataset obtained?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-kind-of-data-was-utilized-within-the-project">
+   What kind of data was utilized within the project?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-kind-of-data-was-generated-within-the-project">
+   What kind of data was generated within the project?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#how-was-the-data-organized">
+   How was the data organized?
+  </a>
+ </li>
+</ul>
+
+            </nav>
         </div>
     </div>
 </div>
@@ -227,17 +260,44 @@
   <div class="section" id="dataset-management-plan">
 <h1>Dataset &amp; management plan<a class="headerlink" href="#dataset-management-plan" title="Permalink to this headline">¶</a></h1>
 <p>Please provide information concerning the dataset you utilized, as well as it’s management plan.</p>
-<ul class="simple">
-<li><p>How was the dataset search conducted?</p></li>
-<li><p>How was the dataset obtained?</p></li>
-<li><p>What kind of data was utilized within the project?</p></li>
-<li><p>What kind of data was generated within the project?</p></li>
-<li><p>How was the data organized?</p></li>
+<div class="section" id="how-was-the-dataset-search-conducted">
+<h2>How was the dataset search conducted?<a class="headerlink" href="#how-was-the-dataset-search-conducted" title="Permalink to this headline">¶</a></h2>
+<p>-&gt; searched on open data websites like <a class="reference external" href="http://openneuro.org">openneuro.org</a></p>
+</div>
+<div class="section" id="how-was-the-dataset-obtained">
+<h2>How was the dataset obtained?<a class="headerlink" href="#how-was-the-dataset-obtained" title="Permalink to this headline">¶</a></h2>
+<p>-&gt; obtained dataset via download from <a class="reference external" href="http://openneuro.org">openneuro.org</a></p>
+</div>
+<div class="section" id="what-kind-of-data-was-utilized-within-the-project">
+<h2>What kind of data was utilized within the project?<a class="headerlink" href="#what-kind-of-data-was-utilized-within-the-project" title="Permalink to this headline">¶</a></h2>
+<p>-&gt; Dataset of EEG recordings containing high-frequency oscillation markings for 30 pediadric patients with epilepsy</p>
+</div>
+<div class="section" id="what-kind-of-data-was-generated-within-the-project">
+<h2>What kind of data was generated within the project?<a class="headerlink" href="#what-kind-of-data-was-generated-within-the-project" title="Permalink to this headline">¶</a></h2>
+<p>-&gt; EEG data based on 10-20 system; high-frequency oscillations (HFO)</p>
+</div>
+<div class="section" id="how-was-the-data-organized">
+<h2>How was the data organized?<a class="headerlink" href="#how-was-the-data-organized" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><p>Main directory (hfo/)
+Contains metadata files in the BIDS standard about the participants and the study. Folders are explained below</p></li>
+<li><p>Subfolders</p>
+<p>hfo/sub-**/.
+Contains folders for each subject, named sub-<subject number> and session information.</p>
+<p>hfo/sub-**/ses-01/eeg.
+Contains the raw eeg data in .edf format for each subject. The duration is typically 3 hours, that was recorded in the beginning of the sleep. Details about the    channels are given in the corresponding .tsv file.
+-&gt; hfo/derivatives
+Besides containingsubfolders for the raw data, there are two .json files. The events_description.json explains the meaning of the columns of the event description tsv files (in the subfolders).
+The interval_description.json explains the meaning of the columns of the interval description tsv files (in the subfolders).</p>
+<p>hfo/derivatives/sub-**/ses-01/eeg/.
+Contains processed data for each subject. Based on the sleep annotations, first we identified the sleep stages. Then we cut 5 minutes data intervals from the N3 sleep stages. We applied bipolar referencing by considering all nearest neighbour chanels, thus resulting in 52 bipolar channels. Each run corresponds to one 5 minute data interval. The DataIntervals.tsv file provides information about how the various runs are related to the raw data by providing the start and end indeces. Besides the .edf and channel descriptor .tsv files there is an other .tsv file containing the detected candidate event details. Eg. sub-26_ses-01_task-hfo_run-01_events.tsv contains for subject 26 for the first processed data interval the event markings as indeces with additional features of this event described in the abovementioned events_description.json file.</p>
+</li>
 <li><p>What are the administrative and legal aspects of the data?</p></li>
 <li><p>How will the data be archived, exchanged and published?</p></li>
 <li><p>Who is responsible for the data and what are the duties associated with it?</p></li>
 <li><p>What costs and resources are associated with the project?</p></li>
 </ul>
+</div>
 </div>
 
     <script type="text/x-thebe-config">
