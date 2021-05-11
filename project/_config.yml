@@ -5,8 +5,8 @@
 
 #######################################################################################
 # Book settings
-title                       : ""  # The title of the book. Will be placed in the left navbar.
-author                      : ""  # The author of the book
+title                       : "EPICHAD"  # The title of the book. Will be placed in the left navbar.
+author                      : "Aicha Bouzouina, Michaela Kroth"  # The author of the book
 copyright                   : ""  # Copyright year to be placed in the footer
 logo                        : ""  # A path to the book logo
 exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
@@ -41,8 +41,8 @@ launch_buttons:
   thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
 
 repository:
-  url                       : https://github.com/G0RELLA/gorella_project_template  # The URL to your book's repository
-  path_to_book              : "lecture"  # A path to your book's folder, relative to the repository root.
+  url                       : https://github.com/Michaela000/EPICHAD  # The URL to your book's repository
+  path_to_book              : "project"  # A path to your book's folder, relative to the repository root.
   branch                    : master  # Which branch of the repository should be used when creating links
 
 #######################################################################################
