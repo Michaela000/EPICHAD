@@ -36,13 +36,20 @@ Please provide information concerning the dataset you utilized, as well as it's 
    hfo/derivatives/sub-**/ses-01/eeg/.
   Contains processed data for each subject. Based on the sleep annotations, first we identified the sleep stages. Then we cut 5 minutes data intervals from the N3 sleep stages. We applied bipolar referencing by considering all nearest neighbour chanels, thus resulting in 52 bipolar channels. Each run corresponds to one 5 minute data interval. The DataIntervals.tsv file provides information about how the various runs are related to the raw data by providing the start and end indeces. Besides the .edf and channel descriptor .tsv files there is an other .tsv file containing the detected candidate event details. Eg. sub-26_ses-01_task-hfo_run-01_events.tsv contains for subject 26 for the first processed data interval the event markings as indeces with additional features of this event described in the abovementioned events_description.json file.
 
-* What are the administrative and legal aspects of the data?
+### What are the administrative and legal aspects of the data?
+- License: CC0
+- Ethics Approvals: Kantonale Ethikkommission ZÃ¼rich ( KEK-ZH PB-2016-02055)
 
-* How will the data be archived, exchanged and published?
+### How will the data be archived, exchanged and published?
+- Citation: Dorottya Cserpan and Ece Boran and Richard Rosch and San Pietro Lo Biundo and Georgia Ramantani and Johannes Sarnthein (2021). Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20 system . OpenNeuro. [Dataset] doi: 10.18112/openneuro.ds003555.v1.0.1
+- Dataset DOI: 10.18112/openneuro.ds003555.v1.0.1
+- Code for HFO detection: https://github.com/ZurichNCH/Automatic-High-Frequency-Oscillation-Detector
+- archived in OpenNeuro - free to download 
 
-* Who is responsible for the data and what are the duties associated with it?
+### Who is responsible for the data and what are the duties associated with it?
+- Authors: Dorottya Cserpan, Ece Boran, Richard Rosch, San Pietro Lo Biundo, Georgia Ramantani, Johannes Sarnthein
+- Support: For questions on the dataset or the task, contact Johannes Sarnthein at johannes.sarnthein@usz.ch.
+- Updated on OpenNeuro by Dorottya Cserpan on 2021-03-05 
 
-* What costs and resources are associated with the project?
-
-
-test
+### What costs and resources are associated with the project?
+- Funding: Swiss National Science Foundation (CRSK-3_190895 to G.R. and J.S.)
