@@ -12,6 +12,7 @@
   - updated project.md
   - updated labnotebook 
   - updated data.md
-  - 
+  - created a timeline on GitKraken
+  - Preregistration on OSF
 
-- hello 
+
