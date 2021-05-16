@@ -12,6 +12,6 @@
 - update data.md 
 - update project.md 
 - create lab book for every project member(-> done by Michaela)
-- get/ use GitKraken (done) & create timeline 
-- create project on osf.io 
-- make a preregistration  on osf
+- get/ use GitKraken (done) & create timeline (done)
+- create project on osf.io (done)
+- make a preregistration  on osf (done)
