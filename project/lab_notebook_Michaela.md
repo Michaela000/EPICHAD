@@ -15,4 +15,8 @@
   - created a timeline on GitKraken
   - Preregistration on OSF
 
+# week 3 (17.05 - 23.05)
+- trying out commands on docker and conda
+- updating github repository 
+
 
