@@ -15,3 +15,14 @@
 - get/ use GitKraken (done) & create timeline (done)
 - create project on osf.io (done)
 - make a preregistration  on osf (done)
+
+
+# week 3 (17.05.2021 - 23.05.2021)
+- literature research 
+
+
+# week 4 (24.05.2021 - 30.05.21)
+- install MNE
+- take a first look on the data
+- update labbook 
+ 
