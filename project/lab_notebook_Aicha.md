@@ -23,6 +23,10 @@
 
 # week 4 (24.05.2021 - 30.05.21)
 - install MNE
-- take a first look on the data
 - update labbook 
+
+
+# week 5 (31.05.21 - 06.06.2021)
+- calculator homework
+- update labbook
  
