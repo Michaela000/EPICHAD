@@ -26,3 +26,4 @@
 # week 5 (31.05-06.06)
 - learning about Python/Jupyter Notebook
 - updating github repository
+- Creating a calculator in Jupyter Notebook
