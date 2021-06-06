@@ -19,4 +19,10 @@
 - trying out commands on docker and conda
 - updating github repository 
 
+# week 4 (24.05-30.05)
+- updating github repository 
+- learning more about Juypter Notebook
 
+# week 5 (31.05-06.06)
+- learning about Python/Jupyter Notebook
+- updating github repository
