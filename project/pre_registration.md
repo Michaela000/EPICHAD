@@ -2,13 +2,13 @@
 
 Please provide information on your workflow on a weekly basis, documenting steps, issues, etc. .
 
-### Week 1 (date)
+### Week 1 (16.05)
 
-* Plan/aims
+* Registration on OSF
 
-* Outcomes
+* Outcomes: successfully registered 
 
-* Issues
+* Issues: hypothesis unknown
 
 ### Week 2 (date)
 
