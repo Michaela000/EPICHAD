@@ -29,8 +29,3 @@ Please provide a general project outline and management plan.
 ## How will the steps be documented and version controlled?
 - documented in github (project.md; data.md; data_access.md; data_analysis.md; labbooks)
 - timeline is documented in gitkraken 
-
-
-## Step 1: gather dataset
-- searching on different websites like openneuro.org, pubmed.com
-- 
