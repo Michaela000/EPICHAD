@@ -37,6 +37,9 @@
  - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
  - Result: don't use derivatives data, but the correct raw data.  
 
-#week 7 (14.06-20.06)
+# week 7 (14.06-20.06)
 - update github repository
 - learning more about EEG data; data analysis; etc. (Videos on Youtube and MNE)
+
+# week 8 (21.06-27.06)
+- update github repository 
