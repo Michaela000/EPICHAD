@@ -19,4 +19,27 @@
 - trying out commands on docker and conda
 - updating github repository 
 
+# week 4 (24.05-30.05)
+- updating github repository 
+- learning more about Juypter Notebook
 
+# week 5 (31.05-06.06)
+- learning about Python/Jupyter Notebook
+- updating github repository
+- Creating a calculator in Jupyter Notebook
+
+# week 6 (07.06.2021 - 13.06.2021)
+- updating calculator homework (adding square root function; handling error by dividion by 0; adding comments)
+- update timeline on gitkraken
+- update github repository (problem automatic update of the website)
+ - Data-Files
+- Preprocessing of EPICHAD Dataset 
+ - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
+ - Result: don't use derivatives data, but the correct raw data.  
+
+# week 7 (14.06-20.06)
+- update github repository
+- learning more about EEG data; data analysis; etc. (Videos on Youtube and MNE)
+
+# week 8 (21.06-27.06)
+- update github repository 

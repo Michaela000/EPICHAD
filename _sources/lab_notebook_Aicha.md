@@ -23,6 +23,18 @@
 
 # week 4 (24.05.2021 - 30.05.21)
 - install MNE
-- take a first look on the data
 - update labbook 
- 
+
+
+# week 5 (31.05.21 - 06.06.2021)
+- calculator homework
+- update labbook
+
+# week 6 (07.06.2021 - 13.06.2021)
+- updating calculator homework (adding square root function; handling error by dividion by 0; adding comments)
+- update timeline on gitkraken
+- update github repository (problem automatic update of the website)
+ - Data-Files
+- Preprocessing of EPICHAD Dataset 
+ - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
+ - Result: don't use derivatives data, but the correct raw data.  

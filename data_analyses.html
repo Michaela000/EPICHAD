@@ -256,6 +256,41 @@
 <div class="section" id="overview">
 <h2>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h2>
 <p>Provide information concerning the different analysis parts, as well as links to respective notebooks.</p>
+<p>Step 1: Preprocessing in MNE</p>
+<ul class="simple">
+<li><p>import modules</p>
+<ul>
+<li><p>os</p></li>
+<li><p>numpy</p></li>
+<li><p>mne</p></li>
+<li><p>matplotlib.pyplot</p></li>
+</ul>
+</li>
+<li><p>set directory to data-folder to read in the edf.files</p>
+<ul>
+<li><p>Important! Don’t use derivatives data (bipolar electrodes)</p></li>
+</ul>
+</li>
+<li><p>read in first subject</p></li>
+<li><p>check the raw data information:</p>
+<ul>
+<li><p>look at the raw channel names/types</p></li>
+<li><p>check data by plotting (timeplot)</p></li>
+<li><p>set filter (low-frequency, high-frequency, method, phase, fir-window, fir-design)</p></li>
+<li><p>plot again with filter</p></li>
+</ul>
+</li>
+<li><p>create montage</p>
+<ul>
+<li><p>plot topomap</p></li>
+</ul>
+</li>
+<li><p>ICA</p>
+<ul>
+<li><p>plotting</p></li>
+</ul>
+</li>
+</ul>
 </div>
 <div class="section" id="outcomes">
 <h2>Outcomes<a class="headerlink" href="#outcomes" title="Permalink to this headline">¶</a></h2>
