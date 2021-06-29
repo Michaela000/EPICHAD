@@ -1,4 +1,7 @@
-- file: index
+ root: index
+ format: jb-book
+ defaults:
+- numbered: true
 - file: overview
 - file: project
 - file: data
