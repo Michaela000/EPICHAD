@@ -5,8 +5,9 @@
  - file: project
  - file: data
  - file: pre_registration
+ - file: lab_notebook
    sections:
-   - file: lab_notbook_Aicha
+   - file: lab_notebook_Aicha
    - file: lab_notebook_Michaela
  - file: data_analyses
  - file: results
