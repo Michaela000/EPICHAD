@@ -2,7 +2,7 @@
 
 Please provide information on your workflow on a weekly basis, documenting steps, issues, etc. .
 
-### Week 1 (16.05)
+### Week 1 (16.05.21)
 
 * Registration on OSF
 
