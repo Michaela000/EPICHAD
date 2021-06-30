@@ -40,3 +40,19 @@
 - Preprocessing of EPICHAD Dataset 
  - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
  - Result: don't use derivatives data, but the correct raw data.  
+
+## week 7 (14.06.21 - 20.06.21)
+- updated several files in github
+- updated/ corrected calculator
+- preprocessing of sub01 (still problems/errors with ICA fitting and mapping + montage )
+- problem of automatically updating the website 
+
+## week 8 (21.06.21 - 27.06.21)
+- tried preprocessing of sub01 (still errors observed)
+- tired to fix problem of website, unsuccessfully 
+- informed myself more about basics of EEG and EEG data preprocessing
+
+## week 9 (28.06.21 - 04.07.21)
+- fixed the problem of automatically updating the website (updated TOC file)
+- fixed errors in preproessing of sub01 (ICA fitting and maping works now, set correct montage)
+
