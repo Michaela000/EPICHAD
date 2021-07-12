@@ -263,7 +263,6 @@
                 
   <div class="section" id="data-analyses">
 <h1>Data analyses<a class="headerlink" href="#data-analyses" title="Permalink to this headline">¶</a></h1>
-<p>Provide readers/users with a general outline of the conducted analyses and corresponding outcomes.</p>
 <ul class="simple">
 <li><p>The data to analyze is from this dataset: <a class="reference external" href="https://openneuro.org/datasets/ds003555/versions/1.0.1">https://openneuro.org/datasets/ds003555/versions/1.0.1</a></p></li>
 <li><p>The Program that we will use is MNE-Python</p></li>
@@ -291,7 +290,7 @@
 <li><p>read in first subject</p></li>
 <li><p>check the raw data information:</p>
 <ul>
-<li><p>look at the raw channel names/types</p></li>
+<li><p>look at the raw channel names/types (important –&gt; exclude reference channels A1, A2)</p></li>
 <li><p>check data by plotting (timeplot)</p></li>
 <li><p>set filter (low-frequency, high-frequency, method, phase, fir-window, fir-design)</p></li>
 <li><p>plot again with filter</p></li>
@@ -307,12 +306,20 @@
 <li><p>plotting</p></li>
 </ul>
 </li>
+<li><p>creating fixed epochs</p></li>
+<li><p>create Topomap for all subjects with all bands (Delta 0-4Hz; Theta 4-8Hz; Alpha 8-12Hz; Beta 12-30Hz; Gamma 30-45Hz)</p>
+<ul>
+<li><p>Find out vmax and vmin for each frequency band and class (adults &gt;7 years or children &lt;7 years)</p></li>
+<li><p>Create new topomaps with vmax/vmin</p></li>
+</ul>
+</li>
 </ul>
 </div>
 <div class="section" id="outcomes">
 <h2>Outcomes<a class="headerlink" href="#outcomes" title="Permalink to this headline">¶</a></h2>
-<p>Provide information concerning the outcomes of the different analysis parts, as well as links to further
-details on data access.</p>
+<ul class="simple">
+<li><p>Topomap outcomes for vmax and vmin: Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1</p></li>
+</ul>
 </div>
 </div>
 
