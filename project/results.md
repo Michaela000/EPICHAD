@@ -1,11 +1,17 @@
 # Results & outcomes
 
-Please provide information on the obtained results and all other outcomes of the project.
 
-* What results did the applied analyses yield?
+## Hypothesis
 
 ### Hypothesis 1
+- Children have Higher Frequency Oscillation than adult patients
 
 ### Hypothesis 2
+- Children dont have higher Frequency Oscillation than adult patient 
 
-* Were there other outcomes of the project (e.g. software, etc.)?
+
+## Results
+
+- Topomap outcomes for vmax and vmin:
+   - Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and 
+   - Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
