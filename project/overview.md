@@ -1,4 +1,4 @@
-# Overview & motivation
+# Overview & Motivation
 
 ### What is the current situation/problem, what are the aims of the project?
 - Currently: Preprocessing of the raw-data 
