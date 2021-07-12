@@ -1,6 +1,6 @@
 # Project outline & Management plan
 
-### What are the planned steps of the project, including a rough timeline?
+##### What are the planned steps of the project, including a rough timeline?
 - Literature searching (already done on openneuro.org)
 - writing documents (read.me; project.md; data.md;...) and Preregistration  on OSF
 - Preprint (timeline on gitkraken; summary of every step on a word document)
@@ -9,7 +9,7 @@
 - Writing
 - Timeline: Gitkraken
 
-### What software will be utilized for the different project steps?
+##### What software will be utilized for the different project steps?
 - Literature searching (openneuro.org)
 - Writing documents (github; OSF; gitkraken)
 - Preprint (gitkraken)
