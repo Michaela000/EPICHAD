@@ -42,6 +42,8 @@
 ## week 7 (14.06.2021-20.06.2021)
 - update github repository (Calculator, data, ...)
 - learning more about EEG data; data analysis; etc. (Videos on Youtube and MNE)
+- preprocessing of sub01 (problems with the ICA)
+- problems with the github website
 
 ## week 8 (21.06.2021-27.06.2021)
 - update github repository 
