@@ -23,12 +23,12 @@
 - literature research 
 
 
-## week 4 (24.05.2021 - 30.05.21)
+## week 4 (24.05.2021 - 30.05.2021)
 - install MNE
 - update labbook 
 
 
-## week 5 (31.05.21 - 06.06.2021)
+## week 5 (31.05.2021 - 06.06.2021)
 - calculator homework
 - update labbook
 
@@ -41,18 +41,18 @@
  - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
  - Result: don't use derivatives data, but the correct raw data.  
 
-## week 7 (14.06.21 - 20.06.21)
+## week 7 (14.06.2021 - 20.06.2021)
 - updated several files in github
 - updated/ corrected calculator
 - preprocessing of sub01 (still problems/errors with ICA fitting and mapping + montage )
 - problem of automatically updating the website 
 
-## week 8 (21.06.21 - 27.06.21)
+## week 8 (21.06.2021 - 27.06.2021)
 - tried preprocessing of sub01 (still errors observed)
 - tired to fix problem of website, unsuccessfully 
 - informed myself more about basics of EEG and EEG data preprocessing
 
-## week 9 (28.06.21 - 04.07.21)
+## week 9 (28.06.2021 - 04.07.2021)
 - fixed the problem of automatically updating the website (updated TOC file)
 - fixed errors in preproessing of sub01 (ICA fitting and maping works now, set correct montage)
 
