@@ -17,15 +17,15 @@
   - created a timeline on GitKraken
   - Preregistration on OSF
 
-## week 3 (17.05 - 23.05)
+## week 3 (17.05.2021 - 23.05.2021)
 - trying out commands on docker and conda
 - updating github repository 
 
-## week 4 (24.05-30.05)
+## week 4 (24.05.2021-30.05.2021)
 - updating github repository 
 - learning more about Juypter Notebook
 
-## week 5 (31.05-06.06)
+## week 5 (31.05.2021-06.06.2021)
 - learning about Python/Jupyter Notebook
 - updating github repository
 - Creating a calculator in Jupyter Notebook
@@ -39,9 +39,26 @@
  - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
  - Result: don't use derivatives data, but the correct raw data.  
 
-## week 7 (14.06-20.06)
-- update github repository
+## week 7 (14.06.2021-20.06.2021)
+- update github repository (Calculator, data, ...)
 - learning more about EEG data; data analysis; etc. (Videos on Youtube and MNE)
 
-## week 8 (21.06-27.06)
+## week 8 (21.06.2021-27.06.2021)
 - update github repository 
+- Preprocessing in Jupyter Notebook (Errors -> Discussion with Jose)
+- Problems on Github (Actions were not succesfull)
+- learning about the basics of EEG
+
+## week 9 (28.06.2021-04.07.2021)
+- fixed problem of automatically updating the website (we needed to update the TOC file)
+- fixed errors in preprocessing of sub01 (ICA fitting and maping works now, set correct montage)
+
+## week 10 (05.07.2021-11.07.2021)
+- Jupyter Notebook: plotted ICA_Components for each subject; created fixed Epochs and created Topomaps for each subject and frequency band
+- Jupyter Notebook Homework: look at vmin/vmax for each class (Children, Adults) and plot each frequency band again
+- Github: updated all files again (data_acess; data; overview; results; ...)
+
+## week 11 (12.07.2021-18.07.2021)
+- created table with all subjects and frequency bands in order to compare them 
+- updated the OSF preregistration
+- updated GitHub files: results; data; overview; ...
