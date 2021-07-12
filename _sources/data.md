@@ -2,23 +2,23 @@
 
 ### How was the dataset search conducted?
 
- -> searched on open data websites like openneuro.org
+ - searched on open data websites like openneuro.org
 
 ### How was the dataset obtained?
 
- -> obtained dataset via download from openneuro.org
+ - obtained dataset via download from openneuro.org
 
 ### What kind of data was utilized within the project?
 
  - Dataset of EEG recordings containing high-frequency oscillation markings for 30 pediadric patients with epilepsy
  - This study consists of 30 human subjects. 
  - 14 subjects were classified as children, with the age from 0.7-6.6 years. 
- - T other 16 subjects were classified as adults with the age 7.1-17.4 years. 
-All subjects need to have focal or generalized epilepsy.
+ - The other 16 subjects were classified as adults with the age 7.1-17.4 years. 
+ - All subjects need to have focal or generalized epilepsy.
 
 ### What kind of data was generated within the project?
  
- -> EEG data based on 10-20 system; high-frequency oscillations (HFO)
+ - EEG data based on 10-20 system; high-frequency oscillations (HFO)
 ### How was the data organized?
  
  * Main directory (hfo/)
