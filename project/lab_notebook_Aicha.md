@@ -56,3 +56,12 @@
 - fixed the problem of automatically updating the website (updated TOC file)
 - fixed errors in preproessing of sub01 (ICA fitting and maping works now, set correct montage)
 
+## week 10 (05.07.2021-11.07.2021)
+- Jupyter Notebook: plotted ICA_Components for each subject; created fixed Epochs and created Topomaps for each subject and frequency band
+- Jupyter Notebook Homework: look at vmin/vmax for each class (Children, Adults) and plot each frequency band again
+- Github: updated all files again (data_acess; data; overview; results; ...)
+
+## week 11 (12.07.2021-18.07.2021)
+- created table with all subjects and frequency bands in order to compare them 
+- updated the OSF preregistration
+- updated GitHub files: results; data; overview; ...
