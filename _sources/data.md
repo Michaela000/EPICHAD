@@ -10,7 +10,11 @@
 
 ### What kind of data was utilized within the project?
 
- -> Dataset of EEG recordings containing high-frequency oscillation markings for 30 pediadric patients with epilepsy
+ - Dataset of EEG recordings containing high-frequency oscillation markings for 30 pediadric patients with epilepsy
+ - This study consists of 30 human subjects. 
+ - 14 subjects were classified as children, with the age from 0.7-6.6 years. 
+ - T other 16 subjects were classified as adults with the age 7.1-17.4 years. 
+All subjects need to have focal or generalized epilepsy.
 
 ### What kind of data was generated within the project?
  
