@@ -1,4 +1,4 @@
-# Project outline & management plan
+# Project outline & Management plan
 
 ### What are the planned steps of the project, including a rough timeline?
 - Literature searching (already done on openneuro.org)
