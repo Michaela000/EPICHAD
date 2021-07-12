@@ -1,6 +1,5 @@
 # Data access
 
-Please provide information on how the data can be accessed.
 
 - Information from BIDS-Validator v1.7.1
   - Dataset consists of 96 files, 15.07 GB
