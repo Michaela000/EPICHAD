@@ -1,7 +1,5 @@
 # Dataset & Management plan
 
-Please provide information concerning the dataset you utilized, as well as it's management plan.
-
 ### How was the dataset search conducted?
 
  -> searched on open data websites like openneuro.org
