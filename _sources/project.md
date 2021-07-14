@@ -9,6 +9,9 @@
 - Poster & manuscript
 - Talk about EPICHAD project
 
+![EPICHAD_timeline](https://user-images.githubusercontent.com/83064474/125691568-4f635584-839b-462d-86a4-d690c8bd907c.png)
+
+
 ##### What software will be utilized for the different project steps?
 - Literature searching: openneuro.org (Browser: Chrome)
 - Writing documents: GitHub, OSF
