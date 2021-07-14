@@ -43,7 +43,7 @@ The project includes the following parts:
 
  
 
-* [Dataset & management plan]()
+* [Dataset]()
 
   
 
