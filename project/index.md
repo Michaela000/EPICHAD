@@ -17,14 +17,18 @@ titlesonly: true
 This page is currently under construction and will be updated continiously.
 Pleae visit this page again in the next feew weeks for further information.
 ```
-**Add your zenodo badge here.***
+
 
 # Welcome!
 
-Hello everyone & welcome to the EPICHAD project.
-This repository contains the jupyter book for the project EPICHAD conducted within Methological working in the neurosciences 2021.
+Hello everyone & welcome to the EPICHAD project. We are happy that you found your way on our website!
+
+We, Aicha Bouzouina & Michaela Kroth, are currently working on our Master studies in cognitive & integrative system neurosciences at the Philips University Marburg. Here on this website, we show you our work on our EPICHAD project during the summer term 2021.
+
 
 ## What's all this now?
+
+At this point you might ask yourself what EPICHAD actually stands for. Well, it means "EPIlepsy in CHildren and ADults". As part of a module in our Masters programm, we worked for the very first time with open source EEG data. 
 
 Please provide general information and motivation here, as well as links to the
 specific sections.
