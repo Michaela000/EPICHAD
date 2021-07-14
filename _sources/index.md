@@ -29,7 +29,7 @@ We, Aicha Bouzouina & Michaela Kroth, are currently working on our Master studie
 ## What's all this now?
 
 At this point you might ask yourself what EPICHAD actually stands for. 
-Well, it means "EPIlepsy in CHildren and ADults". As part of a module in our Masters programm, we worked for the very first time with open source EEG data. 
+Well, it means "EPIlepsy in CHildren and ADults". As part of a module in our Masters programm, we got an insight for the very first time in a typical workflow with EEG data. 
 Here on this website we present you our progresses and results of the project.
 
 
