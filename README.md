@@ -1,4 +1,4 @@
-![EPICHAD_Logo](Images/EPIHAD_Logo.png)
+![EPICHAD_Logo](Images/EPICHAD_Logo.png)
 
 
 
