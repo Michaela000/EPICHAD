@@ -1,4 +1,5 @@
-![EPICHAD_Logo](https://user-images.githubusercontent.com/83064474/125600234-58f415a1-8dd5-48c5-bdb3-33829710641e.png)
+![EPICHAD_Logo](Images/EPIHAD_Logo.png)
+
 
 
 
