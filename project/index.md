@@ -8,7 +8,7 @@ titlesonly: true
 ```
 ![EPICHAD_Logo](https://user-images.githubusercontent.com/83064474/125640855-7199821f-2410-4225-8e35-d29804e72dcf.png)
 
-![EPICHAD_Logo](EPICHAD/project/EPICHAD_Logo.png)
+![](EPICHAD/project/EPICHAD_Logo.png)
 
 
 ```{admonition} About the content of this Jupyter Book
