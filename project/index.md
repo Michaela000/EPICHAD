@@ -6,7 +6,8 @@ includehidden: true
 titlesonly: true
 ---
 ```
-**Add a logo graphic for your project here.**
+![EPICHAD_Logo](project/EPICHAD_Logo.png)
+
 
 ```{admonition} About the content of this Jupyter Book
 :class: warning
