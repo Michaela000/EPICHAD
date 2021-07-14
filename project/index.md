@@ -28,48 +28,48 @@ We, Aicha Bouzouina & Michaela Kroth, are currently working on our Master studie
 
 ## What's all this now?
 
-At this point you might ask yourself what EPICHAD actually stands for. Well, it means "EPIlepsy in CHildren and ADults". As part of a module in our Masters programm, we worked for the very first time with open source EEG data. 
+At this point you might ask yourself what EPICHAD actually stands for. 
+Well, it means "EPIlepsy in CHildren and ADults". As part of a module in our Masters programm, we worked for the very first time with open source EEG data. 
+Here on this website we present you our progresses and results of the project.
 
-Please provide general information and motivation here, as well as links to the
-specific sections.
 
 The project includes the following parts:
 
 * [Overview & motivation]()
 
-   You can put an informative one-liner here.
+  
 
 * [Project outline & management plan]()
 
-   You can put an informative one-liner here.
+ 
 
 * [Dataset & management plan]()
 
-   You can put an informative one-liner here.
+  
 
 * [Pre-registration]()
 
-   You can put an informative one-liner here.
+ 
 
 * [Open lab notebook]()
 
-   You can put an informative one-liner here.   
+      
       
 * [Data analyses]()
 
-   You can put an informative one-liner here.
+  
    
 * [Results & outcomes]()
 
-   You can put an informative one-liner here.
+   
 
 * [Poster & manuscript]()
 
-   You can put an informative one-liner here.
+   
 
 * [Data access]()
 
-   You can put an informative one-liner here.
+   
 
 * [Code of Conduct](https://g0rella.github.io/gorella_overview/CoC.html)
 
@@ -77,5 +77,4 @@ The project includes the following parts:
 
 ## I've got a question!
 
-Provide information on how readers/users can get in contact with you, ask questions,
-report issues, etc. .
+If you have any questions feel free to contact us any time. We are always open for feepback or new ideas! You can contact us on the GitHub website of the EPICHAD project or via email (bouzouin@students.uni-marburg.de & krothm@students.uni-marburg.de)
