@@ -6,7 +6,7 @@ includehidden: true
 titlesonly: true
 ---
 ```
-![EPICHAD_Logo](project/EPICHAD_Logo.png)
+# ![EPICHAD_Logo](project/EPICHAD_Logo.png)
 
 
 ```{admonition} About the content of this Jupyter Book
