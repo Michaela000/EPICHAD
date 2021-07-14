@@ -11,7 +11,7 @@
 
 ##### What software will be utilized for the different project steps?
 - Literature searching: openneuro.org (Browser: Chrome)
-- Writing documents: GitHub, OSF)
+- Writing documents: GitHub, OSF
 - Preprint: GitKraken
 - Data preprocessing & analysis: MNE Python
 - Statistics: Python
