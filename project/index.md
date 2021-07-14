@@ -20,9 +20,8 @@ Pleae visit this page again in the next feew weeks for further information.
 
 # Welcome!
 
-Please write a nice welcome message here, maybe with links to the overview, etc. .
-Also include information what readers/users see here, how to navigate the site, as
-well as the different possibilities with regard to interoperability.  
+Hello everyone & welcome to the EPICHAD project.
+This repository contains the jupyter book for the project EPICHAD conducted within Methological working in the neurosciences 2021.
 
 ## What's all this now?
 
