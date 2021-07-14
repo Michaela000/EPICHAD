@@ -57,7 +57,8 @@
 - fixed errors in preproessing of sub01 (ICA fitting and maping works now, set correct montage)
 
 ## week 10 (05.07.2021-11.07.2021)
-- Jupyter Notebook: plotted ICA_Components for each subject; created fixed Epochs and created Topomaps for each subject and frequency band
+- Jupyter Notebook: plotted ICA_Components for each subject; created fixed epochs and created topomaps for each subject and frequency band
+- Problems with subject 04, 14 & 18 appeared when we wanted to create the topomaps. (Error: There are 1 channel position not present in the DigMontage. The required channels are 'Cz2'). Therefore we excluded these three subjects for further analysis
 - Jupyter Notebook Homework: look at vmin/vmax for each class (Children, Adults) and plot each frequency band again
 - Github: updated all files again (data_acess; data; overview; results; ...)
 
@@ -65,3 +66,5 @@
 - created table with all subjects and frequency bands in order to compare them 
 - updated the OSF preregistration
 - updated GitHub files: results; data; overview; ...
+- created overview of ICA components of all subjects
+- created EPICHAD Logo
