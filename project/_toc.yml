@@ -4,7 +4,7 @@
  - file: overview
  - file: project
  - file: data
- - file: preregistration
+ - file: pre_registration
  - file: lab_notebook
    sections:
    - file: lab_notebook_Aicha
