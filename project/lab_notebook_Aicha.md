@@ -68,3 +68,4 @@
 - updated GitHub files: results; data; overview; ...
 - created overview of ICA components of all subjects
 - created EPICHAD Logo
+- updated index.md
