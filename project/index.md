@@ -77,4 +77,4 @@ The project includes the following parts:
 
 ## I've got a question!
 
-If you have any questions feel free to contact us any time. We are always open for feepback or new ideas! You can contact us on the GitHub website of the EPICHAD project or via email (bouzouin@students.uni-marburg.de & krothm@students.uni-marburg.de)
+If you have any questions feel free to contact us any time. We are always open for feedback or new ideas! You can contact us on the GitHub website of the EPICHAD project or via email (bouzouin@students.uni-marburg.de & krothm@students.uni-marburg.de)
