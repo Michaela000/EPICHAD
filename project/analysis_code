@@ -26,12 +26,12 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "/directory of your files\n"
+      "/mnt/f/Uni_Marburg/Zweites_Semester/Methodisches_Arbeiten_PM/Datasets/Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20 system/sub-16/ses-01/eeg\n"
      ]
     }
    ],
    "source": [
-    "cd /directory of subject 1"
+    "cd /mnt/f/Uni_Marburg/Zweites_Semester/Methodisches_Arbeiten_PM/Datasets/Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20 system/sub-16/ses-01/eeg"
    ]
   },
   {
