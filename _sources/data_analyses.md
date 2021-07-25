@@ -38,11 +38,19 @@ Provide information concerning the different analysis parts, as well as links to
 
 
 ### Code
-"source": [
-""import pandas as pd\n",
-""print("Hi! This is a cell. Click on it and press the ▶ button above to run it")\n"
-]
-
+{
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "slideshow": {
+     "slide_type": "fragment"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "import math"
+   ]
+  },
 
 
 ### Outcomes
