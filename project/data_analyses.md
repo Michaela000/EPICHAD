@@ -28,11 +28,15 @@ Step 1: Preprocessing in MNE
   - plot topomap 
 - ICA
   - plotting
+
+Step 2: Data Analysis in MNE
 - creating fixed epochs 
 - create Topomap for all subjects with all bands (Delta 0-4Hz; Theta 4-8Hz; Alpha 8-12Hz; Beta 12-30Hz; Gamma 30-45Hz)
   - Find out vmax and vmin for each frequency band and class (adults >7 years or children <7 years)
   - Create new topomaps with vmax/vmin 
+  - Create for loop for all subjects
 
 ### Outcomes
 
 - Topomap outcomes for vmax and vmin: Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
+- Comparing the oscillation patterns of the two groups (Children and Adults)
