@@ -10,7 +10,7 @@
 
 Provide information concerning the different analysis parts, as well as links to respective notebooks.
 
-##### Step 1: Preprocessing in MNE
+**Step 1: Preprocessing in MNE**
 - import modules
   - os
   - numpy
@@ -29,7 +29,7 @@ Provide information concerning the different analysis parts, as well as links to
 - ICA
   - plotting
 
-##### Step 2: Data Analysis in MNE
+**Step 2: Data Analysis in MNE**
 - creating fixed epochs 
 - create Topomap for all subjects with all bands (Delta 0-4Hz; Theta 4-8Hz; Alpha 8-12Hz; Beta 12-30Hz; Gamma 30-45Hz)
   - Find out vmax and vmin for each frequency band and class (adults >7 years or children <7 years)
