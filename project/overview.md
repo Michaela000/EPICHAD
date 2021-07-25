@@ -15,7 +15,7 @@
 ### What is the proposed approach to conduct the project?
 - Literature search
 - Writing documents
-- Preprint
 - Data analysis
 - Statistics
-- Writing
+- Writing/Designing a poster
+- Talk
