@@ -36,6 +36,15 @@ Provide information concerning the different analysis parts, as well as links to
   - Create new topomaps with vmax/vmin 
   - Create for loop for all subjects
 
+
+### Code
+
+import pandas as pd
+
+print("Hi! This is a cell. Click on it and press the ▶ button above to run it")
+
+
+
 ### Outcomes
 
 - Topomap outcomes for vmax and vmin: Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
