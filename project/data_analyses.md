@@ -37,22 +37,6 @@ Provide information concerning the different analysis parts, as well as links to
   - Create for loop for all subjects
 
 
-### Code
-{
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {
-    "slideshow": {
-     "slide_type": "fragment"
-    }
-   },
-   "outputs": [],
-   "source": [
-    "import math"
-   ]
-  },
-
-
 ### Outcomes
 
 - Topomap outcomes for vmax and vmin: Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
