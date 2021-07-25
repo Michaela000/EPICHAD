@@ -64,3 +64,10 @@
 - created table with all subjects and frequency bands in order to compare them 
 - updated the OSF preregistration
 - updated GitHub files: results; data; overview; ...
+- created overview of ICA components of all subjects
+
+## week 12 (19.07.2021-25.07.2021)
+- created for loop in order to analyze all the subjects in a row
+- updated OSF page (wiki, tags and Add-ons)
+- updated Github files: deleted all "preprint" mentions; add result/preprocessing figures
+- set up a poster
