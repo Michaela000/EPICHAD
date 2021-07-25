@@ -7,5 +7,4 @@ as respective links to final versions.
 
 ### Scientific talk 
 
-### Scientific preprint
 
