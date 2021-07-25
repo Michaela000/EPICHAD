@@ -10,6 +10,7 @@
    - file: lab_notebook_Aicha
    - file: lab_notebook_Michaela
  - file: data_analyses
+ - file: Analysis_Code
  - file: results
  - file: poster_manuscript
  - file: data_access
