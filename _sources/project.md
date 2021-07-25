@@ -3,7 +3,6 @@
 ##### What are the planned steps of the project, including a rough timeline?
 - Literature searching 
 - writing documents (read.me; project.md; data.md;...) & Preregistration on OSF
-- Preprint 
 - Data preprocesing & analysis
 - Statistics (Calculator)
 - Poster & manuscript
@@ -15,7 +14,6 @@
 ##### What software will be utilized for the different project steps?
 - Literature searching: openneuro.org (Browser: Chrome)
 - Writing documents: GitHub, OSF
-- Preprint: GitKraken
 - Data preprocessing & analysis: MNE Python
 - Statistics: Python
 - Poster & manuscript: Microsoft Powerpoint & Word, Keynote
