@@ -38,10 +38,10 @@ Provide information concerning the different analysis parts, as well as links to
 
 
 ### Code
-
-import pandas as pd
-
-print("Hi! This is a cell. Click on it and press the ▶ button above to run it")
+"source": [
+""import pandas as pd\n",
+""print("Hi! This is a cell. Click on it and press the ▶ button above to run it")\n"
+]
 
 
 
