@@ -69,3 +69,9 @@
 - created overview of ICA components of all subjects
 - created EPICHAD Logo
 - updated index.md
+
+## week 12 (19.07.2021-25.07.2021)
+- created for loop in order to analyze all the subjects in a row
+- updated OSF page (wiki, tags and Add-ons)
+- updated Github files: deleted all "preprint" mentions; add result/preprocessing figures
+- set up a poster
