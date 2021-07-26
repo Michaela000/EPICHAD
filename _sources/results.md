@@ -36,11 +36,11 @@
 
 3.1 Topomap outcome in Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
 
-![Topomap_Adult](https://user-images.githubusercontent.com/82948946/126979175-b62bb52b-68a6-4242-96cf-81e0cdb5dcba.PNG)
-![subject_22](https://user-images.githubusercontent.com/82948946/126980081-949d0276-af7f-445e-97ca-f6e93e6bbce2.PNG)
+![Topomap_Adult](https://user-images.githubusercontent.com/82948946/126980285-4da35307-7e2d-47f0-8eb7-679ba255c8c9.PNG)
 
 
 3.2 Topomap outcome in Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
    
-![Topomap_Child](https://user-images.githubusercontent.com/82948946/126979162-1942e3ee-b4be-4174-ab8f-e1f1ed570a70.PNG)
+![Topomap_Child](https://user-images.githubusercontent.com/82948946/126980301-cf361820-703b-48da-b4d7-6478e3eadfe9.PNG)
+
 
