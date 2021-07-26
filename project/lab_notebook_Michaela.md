@@ -9,7 +9,7 @@
     There were problems with downloading this dataset --> solution: use google chrome and not firefox/safari etc.!
 
 ## week 2 (10.05.2021 - 16.05.2021)
-- created github repository "EPICHAD"
+- created GitHub repository "EPICHAD"
   - updated README.md file
   - updated project.md
   - updated labnotebook 
@@ -19,21 +19,21 @@
 
 ## week 3 (17.05.2021 - 23.05.2021)
 - trying out commands on docker and conda
-- updating github repository 
+- updating GitHub repository 
 
 ## week 4 (24.05.2021-30.05.2021)
-- updating github repository 
+- updating GitHub repository 
 - learning more about Juypter Notebook
 
 ## week 5 (31.05.2021-06.06.2021)
 - learning about Python/Jupyter Notebook
-- updating github repository
-- Creating a calculator in Jupyter Notebook
+- updating GitHub repository
+- creating a calculator in Jupyter Notebook
 
 ## week 6 (07.06.2021 - 13.06.2021)
 - updating calculator homework (adding square root function; handling error by dividion by 0; adding comments)
-- update timeline on gitkraken
-- update github repository (problem automatic update of the website)
+- update timeline on GitKraken
+- update GitHub repository (problem automatic update of the website)
  - Data-Files
 - Preprocessing of EPICHAD Dataset 
  - Problems: difficult preprocessing with bipolar channels, therefore we asked the authors for help. 
@@ -43,12 +43,12 @@
 - update github repository (Calculator, data, ...)
 - learning more about EEG data; data analysis; etc. (Videos on Youtube and MNE)
 - preprocessing of sub01 (problems with the ICA)
-- problems with the github website
+- problems with the GitHub website
 
 ## week 8 (21.06.2021-27.06.2021)
 - update github repository 
 - Preprocessing in Jupyter Notebook (Errors -> Discussion with Jose)
-- Problems on Github (Actions were not succesfull)
+- Problems on GitHub (Actions were not succesfull)
 - learning about the basics of EEG
 
 ## week 9 (28.06.2021-04.07.2021)
