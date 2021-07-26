@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : ""  # The title of the book. Will be placed in the left navbar.
+title                       : "EOICHAD"  # The title of the book. Will be placed in the left navbar.
 author                      : "Aicha Bouzouina, Michaela Kroth"  # The author of the book
 copyright                   : ""  # Copyright year to be placed in the footer
 logo                        : "static/EPICHAD_Logo.png"  # A path to the book logo
