@@ -13,5 +13,10 @@
 ## Results
 
 - Topomap outcomes for vmax and vmin:
-   - Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and 
+   - Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
+
+![Topomap-Adult](file:///C:/Users/Anwender/Desktop/subject_22.PNG)
+
    - Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
+   
+![Topomap-Child](file:///C:/Users/Anwender/Desktop/Subject_24.PNG)
