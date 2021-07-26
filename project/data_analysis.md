@@ -1,4 +1,4 @@
-# Data analyses
+# Data analysis
 
 
 - The data to analyze is from this dataset: https://openneuro.org/datasets/ds003555/versions/1.0.1
