@@ -58,7 +58,7 @@
 ## week 10 (05.07.2021-11.07.2021)
 - Jupyter Notebook: plotted ICA_Components for each subject; created fixed Epochs and created Topomaps for each subject and frequency band
 - Jupyter Notebook Homework: look at vmin/vmax for each class (Children, Adults) and plot each frequency band again
-- Github: updated all files again (data_acess; data; overview; results; ...)
+- GitHub: updated all files again (data_acess; data; overview; results; ...)
 
 ## week 11 (12.07.2021-18.07.2021)
 - created table with all subjects and frequency bands in order to compare them 
@@ -69,5 +69,12 @@
 ## week 12 (19.07.2021-25.07.2021)
 - created for loop in order to analyze all the subjects in a row
 - updated OSF page (wiki, tags and Add-ons)
-- updated Github files: deleted all "preprint" mentions; add result/preprocessing figures
+- updated GitHub files: deleted all "preprint" mentions; add result/preprocessing figures
 - set up a poster
+
+## week 13 (26.07.2021-01.08.2021)
+- updated GitHub files:
+    - added logo-picture to left corner
+    - updated results 
+    - added code and pictures in data.md; result.md; analysis.md's
+- worked on the poster 
