@@ -4,11 +4,11 @@
 - The data to analyze is from this dataset: https://openneuro.org/datasets/ds003555/versions/1.0.1
 - The Program that we will use is MNE-Python 
 - We will first look at the 30 subjects in order to find differences between children and adults with epilepsy. 
-- Further questions about the analysis will be answered in the future. 
 
 ### Overview
 
-Provide information concerning the different analysis parts, as well as links to respective notebooks.
+This part of the project only shows the different commands that we used in order to analyze the dataset.
+The next part displays the detailed code.
 
 **Step 1: Preprocessing in MNE**
 - import modules
