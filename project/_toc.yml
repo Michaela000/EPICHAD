@@ -9,7 +9,7 @@
    sections:
    - file: lab_notebook_Aicha
    - file: lab_notebook_Michaela
- - file: data_analyses
+ - file: data_analysis
    sections:
    - file: analysis_code_sub_22
    - file: analysis_code_sub_24
