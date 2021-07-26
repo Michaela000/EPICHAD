@@ -24,7 +24,7 @@
 **2. Topomap outcomes without vmax and vmin**
 
 
-2.1 Topomap outcome in adults without vmax and vmin\n 
+2.1 Topomap outcome in adults without vmax and vmin'\n': 
 These topomaps show the brain activity of an adult siubject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows mostly activation in the temporal and occipital lobe while Theta and Alpha have mostly the activation in the frontal lobe. The last two bands (Beta and Gamma) indicate that nearly all actitivy is located at the temporal lobes.
 It is very important to mention the different scales that are shown here. Delta gows from 0.8-0.8; Theta from 0.0-0.1 and Alpha/Beta and Gamma from 0.0-0.0. These scales are different for all subjects, therefore the next step would be to define vmin and vmax for both groups individually.
 ![Adult_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979376-4395b592-351b-4aad-9203-f9c7c67946b7.png)
