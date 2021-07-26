@@ -4,16 +4,16 @@
  - file: overview
  - file: project
  - file: data
-     sections:
-   - file: analysis_code_sub_22
-   - file: analysis_code_sub_24
-   - file: For-Loop
  - file: pre_registration
  - file: lab_notebook
    sections:
    - file: lab_notebook_Aicha
    - file: lab_notebook_Michaela
  - file: data_analyses
+   sections:
+   - file: analysis_code_sub_22
+   - file: analysis_code_sub_24
+   - file: For-Loop
  - file: results
  - file: poster_manuscript
  - file: data_access
