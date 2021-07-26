@@ -5,7 +5,7 @@
 - Problems: bipolar electrode measurement 
 
 ### Aim of the study 
-- Differences between children and adults who have been diagnosed with epilepsy 
+- Finding differences between children and adults who have been diagnosed with epilepsy 
 
 ### What is the motivation to conduct the project?
 - We never worked with EEG data before, and therefore we were curious what a typical workflow with EEG data would look like.
