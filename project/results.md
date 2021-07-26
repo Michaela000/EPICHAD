@@ -14,6 +14,7 @@
 
 1. ICA outcomes 
 
+
 1.1 ICA outcome in Adult:
 ![Adult_ICA](https://user-images.githubusercontent.com/82948946/126979246-936a2803-0586-4ee9-bb31-379556276ec2.png)
 
@@ -21,6 +22,7 @@
 ![Child_ICA](https://user-images.githubusercontent.com/82948946/126979253-fec58dbc-fead-4fdc-bbb9-7ab36bb9f425.png)
 
 2. Topomap outcomes without vmax and vmin:
+
 
 2.1 Topomap outcome in adults without vmax and vmin 
 ![Adult_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979376-4395b592-351b-4aad-9203-f9c7c67946b7.png)
@@ -30,6 +32,7 @@
 
 
 3. Topomap outcomes for vmax and vmin:
+
 
 3.1 Topomap outcome in Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
 
