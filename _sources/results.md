@@ -15,8 +15,8 @@
 - Topomap outcomes for vmax and vmin:
    - Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
 
-![Topomap-Adult](file:///C:/Users/Anwender/Desktop/subject_22.PNG)
+![Topomap-Adult](file:///F:/Uni_Marburg/Zweites_Semester/Methodisches_Arbeiten_PM/EPICHAD/project/subject_22.PNG)
 
    - Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
    
-![Topomap-Child](file:///C:/Users/Anwender/Desktop/Subject_24.PNG)
+![Topomap-Child](file:///F:/Uni_Marburg/Zweites_Semester/Methodisches_Arbeiten_PM/EPICHAD/project/Subject_24.PNG)
