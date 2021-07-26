@@ -4,6 +4,10 @@
  - file: overview
  - file: project
  - file: data
+     sections:
+   - file: analysis_code_sub_22
+   - file: analysis_code_sub_24
+   - file: For-Loop
  - file: pre_registration
  - file: lab_notebook
    sections:
@@ -12,9 +16,5 @@
  - file: data_analyses
  - file: results
  - file: poster_manuscript
-    sections:
-   - file: analysis_code_sub_22
-   - file: analysis_code_sub_24
-   - file: For-Loop
  - file: data_access
  - file: CoC
