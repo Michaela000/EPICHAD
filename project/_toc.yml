@@ -10,11 +10,11 @@
    - file: lab_notebook_Aicha
    - file: lab_notebook_Michaela
  - file: data_analyses
-   sections:
+ - file: results
+ - file: poster_manuscript
+    sections:
    - file: analysis_code_sub_22
    - file: analysis_code_sub_24
    - file: For-Loop
- - file: results
- - file: poster_manuscript
  - file: data_access
  - file: CoC
