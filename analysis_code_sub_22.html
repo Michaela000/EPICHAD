@@ -293,12 +293,12 @@
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">mnt</span><span class="o">/</span><span class="n">f</span><span class="o">/</span><span class="n">Uni_Marburg</span><span class="o">/</span><span class="n">Zweites_Semester</span><span class="o">/</span><span class="n">Methodisches_Arbeiten_PM</span><span class="o">/</span><span class="n">Datasets</span><span class="o">/</span><span class="n">Dataset</span> <span class="n">of</span> <span class="n">EEG</span> <span class="n">recordings</span> <span class="n">of</span> <span class="n">pediatric</span> <span class="n">patients</span> <span class="k">with</span> <span class="n">epilepsy</span> <span class="n">based</span> <span class="n">on</span> <span class="n">the</span> <span class="mi">10</span><span class="o">-</span><span class="mi">20</span> <span class="n">system</span><span class="o">/</span><span class="n">sub</span><span class="o">-</span><span class="mi">22</span><span class="o">/</span><span class="n">ses</span><span class="o">-</span><span class="mi">01</span><span class="o">/</span><span class="n">eeg</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">directory_of_sub_01</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>/mnt/f/Uni_Marburg/Zweites_Semester/Methodisches_Arbeiten_PM/Datasets/Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20 system/sub-22/ses-01/eeg
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>/directory_of_the_data
 </pre></div>
 </div>
 </div>
@@ -9401,7 +9401,7 @@ Loading data for 5400 events and 2048 original time points ...
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">#epochs.plot_psd_topomap(ch_type = &#39;eeg&#39;, normalize = True); </span>
-<span class="n">epochs</span><span class="o">.</span><span class="n">plot_psd_topomap</span><span class="p">(</span><span class="n">ch_type</span> <span class="o">=</span> <span class="s1">&#39;eeg&#39;</span><span class="p">,</span> <span class="n">normalize</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span> <span class="n">bands</span> <span class="o">=</span> <span class="p">[(</span><span class="mi">30</span><span class="p">,</span><span class="mi">45</span><span class="p">,</span><span class="s2">&quot;Gamma&quot;</span><span class="p">)],</span> <span class="n">vlim</span><span class="o">=</span><span class="p">(</span><span class="mf">0.0</span><span class="p">,</span> <span class="mf">0.1</span><span class="p">));</span> <span class="c1">#lower, higher, name; min, max </span>
+<span class="n">epochs</span><span class="o">.</span><span class="n">plot_psd_topomap</span><span class="p">(</span><span class="n">ch_type</span> <span class="o">=</span> <span class="s1">&#39;eeg&#39;</span><span class="p">,</span> <span class="n">normalize</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span> <span class="n">bands</span> <span class="o">=</span> <span class="p">[(</span><span class="mi">0</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="s2">&quot;Delta&quot;</span><span class="p">)],</span> <span class="n">vlim</span><span class="o">=</span><span class="p">(</span><span class="mf">0.7</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">));</span> <span class="c1">#lower, higher, name; min, max </span>
 </pre></div>
 </div>
 </div>
