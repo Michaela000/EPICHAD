@@ -52,6 +52,8 @@
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Analysis Code of Subject 22 (Adult)" href="analysis_code_sub_22.html" />
+    <link rel="prev" title="Michaelas lab notebook" href="lab_notebook_Michaela.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -86,7 +88,7 @@
   </a>
  </li>
 </ul>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="overview.html">
    Overview &amp; Motivation
@@ -125,6 +127,33 @@
    <li class="toctree-l2">
     <a class="reference internal" href="lab_notebook_Michaela.html">
      Michaelas lab notebook
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="current reference internal" href="#">
+   Data analysis
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="analysis_code_sub_22.html">
+     Analysis Code of Subject 22 (Adult)
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="analysis_code_sub_24.html">
+     Analysis Code of Subject 24 (Child)
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="For-Loop.html">
+     Analysis Code For Loop
     </a>
    </li>
   </ul>
@@ -278,6 +307,7 @@
 <li><p>numpy</p></li>
 <li><p>mne</p></li>
 <li><p>matplotlib.pyplot</p></li>
+<li><p>define figure size</p></li>
 </ul>
 </li>
 <li><p>set directory to data-folder to read in the edf.files</p>
@@ -290,29 +320,55 @@
 <ul>
 <li><p>look at the raw channel names/types (important –&gt; exclude reference channels A1, A2)</p></li>
 <li><p>check data by plotting (timeplot)</p></li>
-<li><p>set filter (low-frequency, high-frequency, method, phase, fir-window, fir-design)</p></li>
+<li><p>set notch filter at 60 Hz</p></li>
+<li><p>set a more precize filter (low-frequency, high-frequency, method, phase, fir-window, fir-design)</p></li>
+<li><p>Hamming Window Design and frequency range from 0.1 - 40.0 Hz</p></li>
 <li><p>plot again with filter</p></li>
 </ul>
 </li>
-<li><p>create montage</p>
+<li><p>create 10-20 standard montage</p>
 <ul>
 <li><p>plot topomap</p></li>
 </ul>
 </li>
-<li><p>ICA</p>
+<li><p>setting up the ICA</p>
 <ul>
-<li><p>plotting</p></li>
+<li><p>ideal number of components here 8</p></li>
+<li><p>create a copy of the raw data in order to apply a filter (low frequency at 1.0 Hz)</p></li>
+<li><p>plotting the components</p></li>
 </ul>
 </li>
 </ul>
 <p><strong>Step 2: Data Analysis in MNE</strong></p>
 <ul class="simple">
-<li><p>creating fixed epochs</p></li>
+<li><p>creating fixed epochs</p>
+<ul>
+<li><p>duration of 2 seconds</p></li>
+<li><p>resample of 500.0</p></li>
+</ul>
+</li>
 <li><p>create Topomap for all subjects with all bands (Delta 0-4Hz; Theta 4-8Hz; Alpha 8-12Hz; Beta 12-30Hz; Gamma 30-45Hz)</p>
 <ul>
 <li><p>Find out vmax and vmin for each frequency band and class (adults &gt;7 years or children &lt;7 years)</p></li>
 <li><p>Create new topomaps with vmax/vmin</p></li>
-<li><p>Create for loop for all subjects</p></li>
+<li><p>exclude subject 4, 15 and 18 because of Problems with the channel Cz2</p></li>
+</ul>
+</li>
+<li><p>create for loop for all subjects</p>
+<ul>
+<li><p>import again all important modules</p></li>
+<li><p>define the path to the dataset</p></li>
+<li><p>path + add on (to sub-01-eeg data)</p></li>
+<li><p>put in the path of all 27 subjects</p></li>
+<li><p>create 10-20 montage</p></li>
+<li><p>split the files in order to only get the name of the subjects</p></li>
+<li><p>read the raw data</p></li>
+<li><p>drop the “reference channels” A1 and A2 and define “average” as the new reference</p></li>
+<li><p>apply notch and raw filter</p></li>
+<li><p>apply the montage</p></li>
+<li><p>create fixed epochs</p></li>
+<li><p>create all figures (topomaps)</p></li>
+<li><p>save them with fig.savefig (path)</p></li>
 </ul>
 </li>
 </ul>
@@ -323,6 +379,8 @@
 <li><p>Topomap outcomes for vmax and vmin: Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1 and Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1</p></li>
 <li><p>Comparing the oscillation patterns of the two groups (Children and Adults)</p></li>
 </ul>
+</div>
+<div class="toctree-wrapper compound">
 </div>
 </div>
 
@@ -351,6 +409,8 @@
         
         <div class='prev-next-bottom'>
             
+    <a class='left-prev' id="prev-link" href="lab_notebook_Michaela.html" title="previous page">Michaelas lab notebook</a>
+    <a class='right-next' id="next-link" href="analysis_code_sub_22.html" title="next page">Analysis Code of Subject 22 (Adult)</a>
 
         </div>
         
