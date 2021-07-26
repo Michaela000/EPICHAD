@@ -10,8 +10,9 @@
    - file: lab_notebook_Aicha
    - file: lab_notebook_Michaela
  - file: data_analyses
- - file: analysis_code
- - file: analysis_code_sub_22
+   sections:
+   - file: analysis_code
+   - file: analysis_code_sub_22
  - file: results
  - file: poster_manuscript
  - file: data_access
