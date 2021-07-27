@@ -15,23 +15,23 @@
 **1. ICA outcomes** 
 
 
-_1.1 ICA outcome in Adult:
+_1.1 ICA outcome in Adult:_
 ![Adult_ICA](https://user-images.githubusercontent.com/82948946/126979246-936a2803-0586-4ee9-bb31-379556276ec2.png)
 
-_1.2 ICA outcome in Children:
+_1.2 ICA outcome in Children:_
 ![Child_ICA](https://user-images.githubusercontent.com/82948946/126979253-fec58dbc-fead-4fdc-bbb9-7ab36bb9f425.png)
 
 **2. Topomap outcomes without vmax and vmin**
 
 
-_2.1 Topomap outcome in adults without vmax and vmin 
+_2.1 Topomap outcome in adults without vmax and vmin_ 
 
 ![Adult_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979376-4395b592-351b-4aad-9203-f9c7c67946b7.png)
 
 These topomaps show the brain activity of an adult siubject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows mostly activation in the temporal and occipital lobe while Theta and Alpha have mostly activation in the frontal lobe. The last two bands (Beta and Gamma) indicate that nearly all actitivy is located at the temporal lobes.
 It is very important to mention the different scales that are shown here. Delta reaches from 0.8-0.8; Theta from 0.0-0.1 and Alpha/Beta and Gamma from 0.0-0.0. These scales are different for all subjects, therefore the next step would be to define vmin and vmax for both groups individually.
 
-_2.2 Topomap outcome in children without vmax and vmin
+_2.2 Topomap outcome in children without vmax and vmin_
 
 ![Child_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979387-676bd9f8-0a97-4229-beda-18eeb1103a5b.png)
 
@@ -42,7 +42,7 @@ These topomaps show the brain activity of a child subject in Delta (0-4 Hz), The
 **3. Topomap outcomes for vmax and vmin**
 
 
-_3.1 Topomap outcome in Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
+_3.1 Topomap outcome in Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1_
 
 ![Topomap_Adult](https://user-images.githubusercontent.com/82948946/126980285-4da35307-7e2d-47f0-8eb7-679ba255c8c9.PNG)
 
@@ -51,7 +51,7 @@ This adult-topomap shows the activity division in the same subject as in figure 
 
 
 
-_3.2 Topomap outcome in Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
+_3.2 Topomap outcome in Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1_
 
 ![Topomap_Child](https://user-images.githubusercontent.com/82948946/126980301-cf361820-703b-48da-b4d7-6478e3eadfe9.PNG)
 
