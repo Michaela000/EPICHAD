@@ -15,37 +15,48 @@
 **1. ICA outcomes** 
 
 
-1.1 ICA outcome in Adult:
+_1.1 ICA outcome in Adult:
 ![Adult_ICA](https://user-images.githubusercontent.com/82948946/126979246-936a2803-0586-4ee9-bb31-379556276ec2.png)
 
-1.2 ICA outcome in Children:
+_1.2 ICA outcome in Children:
 ![Child_ICA](https://user-images.githubusercontent.com/82948946/126979253-fec58dbc-fead-4fdc-bbb9-7ab36bb9f425.png)
 
 **2. Topomap outcomes without vmax and vmin**
 
 
-2.1 Topomap outcome in adults without vmax and vmin 
-These topomaps show the brain activity of an adult siubject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows mostly activation in the temporal and occipital lobe while Theta and Alpha have mostly the activation in the frontal lobe. The last two bands (Beta and Gamma) indicate that nearly all actitivy is located at the temporal lobes.
-It is very important to mention the different scales that are shown here. Delta gows from 0.8-0.8; Theta from 0.0-0.1 and Alpha/Beta and Gamma from 0.0-0.0. These scales are different for all subjects, therefore the next step would be to define vmin and vmax for both groups individually.
+_2.1 Topomap outcome in adults without vmax and vmin 
+
 ![Adult_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979376-4395b592-351b-4aad-9203-f9c7c67946b7.png)
 
-2.2 Topomap outcome in children without vmax and vmin
-These topomaps show the brain activity of a child subject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows most of its activity in the occipital lobe. This subject has the same scale as the adult one (2.1), therefore we can compare these results with one another. Adults have more activity in the frontal to temporal lobes than in children in this case. Theta (mostly frontal), Alpha (mostly frontal), Beta (mostly temporal) and Gamma (mostly temporal) are very similar to the adult subject. The only difference is, that children seems to have an overall higher activity compared to the adult subject (exception in this case Delta). Please remeber, that these are only two subject from 30. Therefore, it is very difficult to compare the topomaps if they are not scaled accordingly.   
+These topomaps show the brain activity of an adult siubject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows mostly activation in the temporal and occipital lobe while Theta and Alpha have mostly activation in the frontal lobe. The last two bands (Beta and Gamma) indicate that nearly all actitivy is located at the temporal lobes.
+It is very important to mention the different scales that are shown here. Delta reaches from 0.8-0.8; Theta from 0.0-0.1 and Alpha/Beta and Gamma from 0.0-0.0. These scales are different for all subjects, therefore the next step would be to define vmin and vmax for both groups individually.
+
+_2.2 Topomap outcome in children without vmax and vmin
+
 ![Child_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979387-676bd9f8-0a97-4229-beda-18eeb1103a5b.png)
+
+These topomaps show the brain activity of a child subject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows most of its activity in the occipital lobe. This subject has the same scale as the adult in the previous figure (2.1), therefore we can compare these results with each other. In this case, adults have more activity in the frontal to temporal lobes than in children. Theta (mostly frontal), Alpha (mostly frontal), Beta (mostly temporal) and Gamma (mostly temporal) are very similar to the adult subject. The only difference is, that children seem to have overall an higher activity compared to the adult subject (exception in this case Delta). Please remeber, that these are only two subjects out of 30. Therefore, it is very difficult to compare the topomaps if they are not scaled accordingly.   
+
 
 
 **3. Topomap outcomes for vmax and vmin**
 
 
-3.1 Topomap outcome in Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
-This adult-topomap shows the activity division in the same subject as in 2.1, but with an averaged scale for all adults subjects. The bigegst difference is Delta, which now has a range from 0.7-0.9. It can be seen, that Delta has again a higher overall activity than Theta, Alpha, Beta and Gamma. The activity is a little bit higher in the occipital lobe, than in the frontal lobe, but overall it is similar. From 4-8 Hz (Theta), there is also some activity mostly frontal and temporal, but please take notice of the scale (Delta from 0.7-0.9 while Theta goes from 0.0-0.2). 
+_3.1 Topomap outcome in Adults: Delta 0.7-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
 
 ![Topomap_Adult](https://user-images.githubusercontent.com/82948946/126980285-4da35307-7e2d-47f0-8eb7-679ba255c8c9.PNG)
 
+This adult-topomap shows the activity division in the same subject as in figure 2.1, but with an averaged scale for all adult subjects. The bigegst difference is Delta, which now has a range from 0.7-0.9. It can be seen, that Delta has again a higher overall activity than Theta, Alpha, Beta and Gamma. The activity is a little bit higher in the occipital lobe, than in the frontal lobe, but overall it is similar. From 4-8 Hz (Theta), there is also some activity mostly frontal and temporal, but please take notice of the scale (Delta from 0.7-0.9 while Theta goes from 0.0-0.2). 
 
-3.2 Topomap outcome in Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
-This children-topomap shows the activity division in the same subject as in 2.2, but with an averaged scale for all children. The scale of Delta marks the biggest difference to before (before: 0.8-0.8 and now it goes from 0.5-0.9). There is an overall stronger activity in the whole brain in Delta if you compare it to the adult-topomap (3.1). But in contrast to that, there is a similar pattern for Theta, Alpha, Beta and Gamma. Please take notice of the different scales for Delta (Children: 0.5-0.9 and Adults: 0.7-0.9). So even, if the scale is larger, you have a higher activation and therefore, higher frequency oscillation. This is our prove of Hypothesis 1!
-   
+
+
+
+_3.2 Topomap outcome in Children: Delta 0.5-0.9; Theta 0.0-0.2; Alpha/Beta/Gamma 0.0-0.1
+
 ![Topomap_Child](https://user-images.githubusercontent.com/82948946/126980301-cf361820-703b-48da-b4d7-6478e3eadfe9.PNG)
+
+This children-topomap shows the activity division in the same subject as in figure 2.2, but with an averaged scale for all children. The scale of Delta marks the biggest difference to before (before: 0.8-0.8 and now it goes from 0.5-0.9). There is an overall stronger activity in the whole brain in Delta if you compare it to the adult-topomap (3.1). But in contrast to that, there is a similar pattern for Theta, Alpha, Beta and Gamma. Please take notice of the different scales for Delta (Children: 0.5-0.9 and Adults: 0.7-0.9). So even, if the scale is larger, you have a higher activation and therefore, higher frequency oscillation. This is our prove of Hypothesis 1!
+   
+
 
 
