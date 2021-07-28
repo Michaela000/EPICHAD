@@ -6,7 +6,7 @@ as respective links to final versions.
 ### Scientific poster
 
 
-[EPICHAD_Poster.pdf](https://github.com/Michaela000/EPICHAD/files/6893623/EPICHAD_Poster.pdf)
+
 
 
 ### Scientific talk 
