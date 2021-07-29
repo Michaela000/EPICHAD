@@ -19,7 +19,7 @@ For artifact reduction, we used an Independent Component Analysis (ICA) with an 
 _1.1 ICA outcome in Adult:_
 ![Adult_ICA](https://user-images.githubusercontent.com/82948946/126979246-936a2803-0586-4ee9-bb31-379556276ec2.png)
 
-This ICA-picture shows the 8 different components from an adult subject. The activation pattern is very different in each component: e.g. the first component ICA000 shows high activation in the frontal area near the eyes. Usually you would exclude this component because of artifacts due to eye movement, but in this case it was still considered a important component. In ICA004 is a higher activity in the occipital lobe. Overall it can be seen, that the activity is mostly focused on the frontal (ICA000, ICA001), parietal (ICA001, ICA007) and occipital (ICA004, ICA006) lobe.  
+This ICA-picture shows the 8 different components from an adult subject. The activation pattern is very different in each component: e.g. the first component ICA000 shows high activation in the frontal area near the eyes. Usually you would exclude this component because of artifacts due to eye movement, but in this case it was still considered an important component. In ICA004 is an higher activity in the occipital lobe. Overall it can be seen, that the activity is mostly focused on the frontal (ICA000, ICA001), parietal (ICA001, ICA007) and occipital (ICA004, ICA006) lobe.  
 
 _1.2 ICA outcome in Children:_
 ![Child_ICA](https://user-images.githubusercontent.com/82948946/126979253-fec58dbc-fead-4fdc-bbb9-7ab36bb9f425.png)
