@@ -14,7 +14,7 @@
 
 **1. ICA outcomes** 
 
-For artifact reduction, we used an Independent Component Analysis (ICA) with an added low frequency filter of 1.0 Hz. To fit the ICA and vizualisation, we used 8 components that are shown in the following figures. 
+For artifact reduction, we used an Independent Component Analysis (ICA) with an added low frequency filter of 1.0 Hz. To fit the ICA and for vizualisation, we used 8 components that are shown in the following figures. 
 
 _1.1 ICA outcome in Adult:_
 ![Adult_ICA](https://user-images.githubusercontent.com/82948946/126979246-936a2803-0586-4ee9-bb31-379556276ec2.png)
