@@ -77,7 +77,7 @@
 - set up a poster
 
 ## week 13 (26.07.2021-01.08.2021)
-- finished & uploaded poster on website / Github
+- finished & uploaded poster on website / Github 
 - updated results
-- added code for preprocessing & analysis to website/Github -> update toc. file
-- fixed problem with small logo on the upper left side of website -> update 
+- added code for preprocessing & analysis to website/Github -> update toc.yml file
+- fixed problem with small logo on the upper left side of website -> update config.yml file
