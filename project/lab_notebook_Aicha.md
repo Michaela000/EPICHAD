@@ -75,3 +75,9 @@
 - updated OSF page (wiki, tags and Add-ons)
 - updated Github files: deleted all "preprint" mentions; add result/preprocessing figures
 - set up a poster
+
+## week 13 (26.07.2021-01.08.2021)
+- finished & uploaded poster on website / Github
+- updated results
+- added code for preprocessing & analysis to website/Github -> update toc. file
+- fixed problem with small logo on the upper left side of website -> update 
