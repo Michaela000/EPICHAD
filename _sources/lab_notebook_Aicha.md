@@ -81,3 +81,13 @@
 - updated results
 - added code for preprocessing & analysis to website/Github -> update toc.yml file
 - fixed problem with small logo on the upper left side of website -> update config.yml file
+
+## week 14 (02.08.2021-08.08.2021)
+- create figshare account 
+
+## week 15 (09.08.2021-14.08.2021)
+- edit poster 
+- uplouad poster in figshare 
+- create powerpoint presentation for talk 
+- talk on 12.08.2021 
+- update website 
