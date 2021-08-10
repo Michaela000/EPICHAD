@@ -8,7 +8,8 @@ as respective links to final versions.
 
 
 
-![EPICHAD_Poster](https://user-images.githubusercontent.com/83064474/127334978-ba90b5f1-2cad-4d93-b378-1f6e5054cc76.jpg)
+![EPICHAD_Poster](https://user-images.githubusercontent.com/83064474/128844089-66cbda60-66d5-4cc0-a63d-73467fa4d183.jpg)
+
 
 
 ### Scientific talk 
