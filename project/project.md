@@ -8,7 +8,7 @@
 - Poster & manuscript
 - Talk about EPICHAD project
 
-![EPICHAD_timeline](https://user-images.githubusercontent.com/83064474/125691568-4f635584-839b-462d-86a4-d690c8bd907c.png)
+![Bildschirmfoto 2021-08-11 um 16 35 16](https://user-images.githubusercontent.com/83064474/129048979-d76e9f63-4e6c-4a0b-ab61-7cba3ab24317.png)
 
 
 ##### What software will be utilized for the different project steps?
