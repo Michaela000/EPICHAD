@@ -88,5 +88,5 @@
 - connect figshare with osf
 - create PowerPoint presentation for the talk (12.08.2021)
 - update website
-- Last changes to results; Readme page
+- Last changes to results; Readme file
 - Talk - Upload on GitHub
