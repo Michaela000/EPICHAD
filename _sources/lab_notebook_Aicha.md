@@ -87,7 +87,7 @@
 
 ## week 15 (09.08.2021-14.08.2021)
 - edit poster 
-- uplouad poster in figshare 
+- upload poster in figshare 
 - create powerpoint presentation for talk 
 - talk on 12.08.2021 
 - update website 
