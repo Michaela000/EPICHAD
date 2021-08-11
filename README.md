@@ -38,6 +38,12 @@ Code of Conduct
 Necessities for creating an open, fair, safe and inclusive experience.
 
 
+## Further links
+
+- OSF-Project: https://osf.io/xbqwg/
+- EPICHAD Website: https://michaela000.github.io/EPICHAD/
+
+
 
 ## I’ve got a question!¶
 
