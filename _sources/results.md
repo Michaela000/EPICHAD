@@ -19,11 +19,11 @@ For artifact reduction, we used an Independent Component Analysis (ICA) with an 
 _1.1 ICA outcome in Adult:_
 ![Adult_ICA](https://user-images.githubusercontent.com/82948946/126979246-936a2803-0586-4ee9-bb31-379556276ec2.png)
 
-This ICA-picture shows the 8 different components from an adult subject. The activation pattern is very different in each component: e.g. the first component ICA000 shows high activation in the frontal area near the eyes. Usually you would exclude this component because of artifacts due to eye movement, but in this case it was still considered an important component. In ICA004 is an higher activity in the occipital lobe. Overall it can be seen, that the activity is mostly focused on the frontal (ICA000, ICA001), parietal (ICA001, ICA007) and occipital (ICA004, ICA006) lobe.  
+This ICA-picture shows the 8 different components from an adult subject. The activation pattern is very different in each component: e.g. the first component ICA000 shows high activation in the frontal area near the eyes. Usually you would exclude this component because of artifacts due to eye movement, but in this case it was still considered an important component. There are a few components that are difficult to analyze because they are not focused (e.g: ICA005, ICA002). In ICA004 is an higher activity in the occipital lobe. Overall it can be seen, that the activity is mostly focused on the frontal (ICA000, ICA001), parietal (ICA001, ICA007) and occipital (ICA004, ICA006) lobe.  
 
 _1.2 ICA outcome in Children:_
 ![Child_ICA](https://user-images.githubusercontent.com/82948946/126979253-fec58dbc-fead-4fdc-bbb9-7ab36bb9f425.png)
-This ICA-picture shows the 8 different compoenents from a children subject. Most of the activation is located at the frontal (ICA003) and temporal (ICA002, ICA006) lobe.
+This ICA-picture shows the 8 different compoenents from a children subject. A lot of the components are not focused and are therefore difficult to descirbe (e.g:ICA000, ICA004). Most of the activation is located at the frontal (ICA003) and temporal (ICA002, ICA006) lobe. 
 
 **2. Topomap outcomes without vmax and vmin**
 
@@ -32,7 +32,7 @@ _2.1 Topomap outcome in adults without vmax and vmin_
 
 ![Adult_Topomap_without_lim](https://user-images.githubusercontent.com/82948946/126979376-4395b592-351b-4aad-9203-f9c7c67946b7.png)
 
-These topomaps show the brain activity of an adult siubject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45) bands in order to show where the activity is mostly focused. Delta shows mostly activation in the temporal and occipital lobe while Theta and Alpha have mostly activation in the frontal lobe. The last two bands (Beta and Gamma) indicate that nearly all actitivy is located at the temporal lobes.
+These topomaps show the brain activity of an adult siubject in Delta (0-4 Hz), Theta (4-8 Hz), Alpha (8-12 Hz), Beta (12-20 Hz) and Gamma (30-45Hz) bands in order to show where the activity is mostly focused. Delta shows mostly activation in the temporal and occipital lobe while Theta and Alpha have mostly activation in the frontal lobe. The last two bands (Beta and Gamma) indicate that nearly all actitivy is located at the temporal lobes.
 It is very important to mention the different scales that are shown here. Delta reaches from 0.8-0.8; Theta from 0.0-0.1 and Alpha/Beta and Gamma from 0.0-0.0. These scales are different for all subjects, therefore the next step would be to define vmin and vmax for both groups individually.
 
 _2.2 Topomap outcome in children without vmax and vmin_
