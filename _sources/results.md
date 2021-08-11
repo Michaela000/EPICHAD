@@ -23,7 +23,7 @@ This ICA-picture shows the 8 different components from an adult subject. The act
 
 _1.2 ICA outcome in Children:_
 ![Child_ICA](https://user-images.githubusercontent.com/82948946/126979253-fec58dbc-fead-4fdc-bbb9-7ab36bb9f425.png)
-This ICA-picture shows the 8 different compoenents from a children subject. A lot of the components are not focused and are therefore difficult to descirbe (e.g:ICA000, ICA004). Most of the activation is located at the frontal (ICA003) and temporal (ICA002, ICA006) lobe. 
+This ICA-picture shows the 8 different compoenents from a children subject. A lot of the components are not focused and are therefore difficult to describe (e.g: ICA000, ICA004). Most of the activation is located at the frontal (ICA003) and temporal (ICA002, ICA006) lobe. 
 
 **2. Topomap outcomes without vmax and vmin**
 
