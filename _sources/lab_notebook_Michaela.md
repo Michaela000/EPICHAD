@@ -78,3 +78,15 @@
     - updated results 
     - added code and pictures in data.md; result.md; analysis.md's
 - worked on the poster 
+
+## week 14 (02.08.2021-08.08.2021)
+- create figshare account
+- poster-update
+
+## week 15 (09.08.2021-15.08.2021)
+- poster - update
+- connect figshare with osf
+- create PowerPoint presentation for the talk (12.08.2021)
+- update website
+- Last changes to results; Readme page
+- Talk - Upload on GitHub
